@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [:linkedin-sdk] C:\Users\luca-\AndroidStudioProjects\AddContatos\linkedin-sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\luca-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\be61e935e43dd8134f95bc3586eb67c3\AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\luca-\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\85d2afe3a713dfcfd7133c6fc35c7375\AndroidManifest.xml:14:4-17:12
+INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:3:5-45
+	android:versionName
+		INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [:linkedin-sdk] C:\Users\luca-\AndroidStudioProjects\AddContatos\linkedin-sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-20
+MERGED from [:linkedin-sdk] C:\Users\luca-\AndroidStudioProjects\AddContatos\linkedin-sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\luca-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\be61e935e43dd8134f95bc3586eb67c3\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\luca-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\be61e935e43dd8134f95bc3586eb67c3\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\luca-\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\85d2afe3a713dfcfd7133c6fc35c7375\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\luca-\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\85d2afe3a713dfcfd7133c6fc35c7375\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:7:9-41
+	android:largeHeap
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:8:9-33
+	android:allowBackup
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:6:9-35
+activity#com.linkedin.android.eventsapp.MainActivity
+ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:9:9-18:20
+	android:screenOrientation
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:11:13-49
+	android:theme
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:12:13-51
+	android:name
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:16:27-74
+activity#com.linkedin.android.eventsapp.ProfileActivity
+ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:19:9-23:20
+	android:screenOrientation
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:22:13-59
+	android:name
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml:20:13-44
+uses-sdk
+INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+MERGED from [:linkedin-sdk] C:\Users\luca-\AndroidStudioProjects\AddContatos\linkedin-sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:linkedin-sdk] C:\Users\luca-\AndroidStudioProjects\AddContatos\linkedin-sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\luca-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\be61e935e43dd8134f95bc3586eb67c3\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\luca-\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\be61e935e43dd8134f95bc3586eb67c3\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\luca-\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\85d2afe3a713dfcfd7133c6fc35c7375\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\luca-\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\85d2afe3a713dfcfd7133c6fc35c7375\AndroidManifest.xml:15:5-42
+INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+		ADDED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\luca-\AndroidStudioProjects\AddContatos\eventsapp\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:linkedin-sdk] C:\Users\luca-\AndroidStudioProjects\AddContatos\linkedin-sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [:linkedin-sdk] C:\Users\luca-\AndroidStudioProjects\AddContatos\linkedin-sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:22-64

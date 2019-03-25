@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AddContatos</string>
+    <string name="nome_do_contato">Nome do Contato</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+    <string name="adicionar_contato">Criar Contato</string>
+    <string name="adicionar_contato_button">Adicionar Contato</string>
+    <string name="Compartilhar">Compartilhar Via WhatsApp ou Email</string>
+    <string name="button">Button</string>
+    <string name="facebook_app_id">262901001301606</string>
+    <string name="fb_login_protocol_scheme">fb262901001301606</string>
+
+    <string name="instagram_login">INSTAGRAM LOGIN</string>
+    <string name="client_id">570872d966e944c9a75432b5d67e78c2</string>
+    <string name="redirect_url">http://localhost:3000</string>
+    <string name="base_url">https://api.instagram.com/</string>
+    <string name="get_user_info_url">https://api.instagram.com/v1/users/self/?access_token=</string>
+
+
+
+</resources>
