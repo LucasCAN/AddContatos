@@ -55,10 +55,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
-{
-    "access_token": "AQUFGOg4-7RYq5lpdoa8dYNOQ6P61MbuVNOpwqVpzoSka8-_lP8Kzbhd5Y1jZakA0-OBvt48zCiIBgjG7gmtQNQh5v0UWIMVsc1cwajFTW7q7meXACp8vcpelpdTPQ_jImcvnm7XgXATBADGz-SFU7BsZup0Vmrhpr5QqONSZWFkculxoJSLERWLW43sCY3g2CdBElOrAvgFToXfJSutuTHzm4dnE-LU1-IR-10bGZVR6UcuO8Q3ZOAWPP5B-ZmZ7mAH0Jihv689En3AJxxiPP3n7NTQlmash6E0I4qSLtTulqaD4M9F0KZujRy3Vga0Yli3CtbtqVF8l_PyyJ3I-WNShiaR-Q",
-    "expires_in": 5184000
-}
+App adiciona novos contatos e permite o login em redes sociais(Facebook, Instagram, Linkedln)
  */
 
 public class MainActivity extends AppCompatActivity
